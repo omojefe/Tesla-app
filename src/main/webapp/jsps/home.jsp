@@ -34,20 +34,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Emes Technology, 
+		343 serena pk ln,Rosharon,Tx,77583
+		+13108008726,
+		cemesaha@yahoo.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:cemesaha@yahoo.com.com">Mail to Emes Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center>Emes Technologies - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2022 by <a href="http://mylandmarktech.com/">Emes Technologies</a> </small></p>
 
 </body>
 </html>
